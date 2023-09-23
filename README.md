@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17321
-Fork on GitHub
-4992
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hello👋, self Ahtasham Malik</h1>
 <h3 align="center">A fervid front End Developer from Pakistan Jhang</h3>
 
