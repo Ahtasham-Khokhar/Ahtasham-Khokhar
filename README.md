@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ahtasham Malik</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | MERN Stack Enthusiast | Based in Jhang, Pakistan 🇵🇰</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | MERN Stack Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahtasham-khokhar&label=Profile%20Views&color=0e75b6&style=flat" alt="ahtasham-khokhar" />
@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on a **News API project**
+- 🔭 I’m currently working on a **Case-Clear**
 - 🌱 I’m deepening my skills in **React.js** and exploring **Next.js**
 - 💬 Ask me about: **JavaScript, CSS, React.js, Node.js, Express.js, MongoDB**
 - 📫 How to reach me: **ahtashammalik887@gmail.com**
@@ -19,7 +19,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ahtasham-ashiq" target="_blank">
+  <a href="https://www.linkedin.com/in/aahtasham-ashiq/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
   </a>
   <a href="https://github.com/Ahtasham-Khokhar" target="_blank">
