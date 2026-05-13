@@ -1,35 +1,76 @@
-# Ahtasham Malik (Khokhar) 
-### **Senior Full-Stack Web Engineer | Next.js, Node.js, MongoDB & Supabase Specialist**
+<div align="center">
+# Ahtasham Malik (Khokhar)
+ 
+**Full-Stack Engineer · Next.js · Node.js · MongoDB · Supabase**
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahtasham-ashiq/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahtashammalik887@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+ 
+</div>
 ---
-
-### 🖋️ Professional Summary
-
-Performance-driven **Full-Stack Engineer**. I specialize in building scalable, secure, and AI-augmented web ecosystems. My engineering philosophy centers on **Clean Architecture (MVC)**, **Type Safety**, and **Atomic Design**.
-
-- 🔭 **Current Focus:** Engineering **Logic and clean architecture**.
-- 🤖 **AI Research:** Implementing LLM-driven features for automated content synthesis.
-- 🏛️ **Legacy:** Former **Ambassador of Technovate Society** and Management Lead at GCUF.
-
+ 
+I build full-stack web applications with a focus on **clean architecture**, **type safety**, and **scalable systems**. Currently engineering production-grade products with Next.js App Router, Supabase, and MongoDB — and exploring LLM-driven feature integration for real-world applications.
+ 
+```ts
+const ahtasham = {
+  role:      "Full-Stack Engineer",
+  focus:     ["Clean Architecture (MVC)", "Type Safety", "Atomic Design"],
+  currently: "Building scalable, AI-augmented web ecosystems",
+  openTo:    ["Freelance", "Full-time", "Open Source Collaboration"],
+};
+```
+ 
 ---
-
-### 🛠️ Technical Ecosystem
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Runtime & Frameworks** | Next.js 14+ (App Router), React, Node.js, Express.js |
-| **Backend-as-a-Service** | Supabase (Auth, Storage, Edge Functions), Firebase |
-| **Persistence Layer** | PostgreSQL, MongoDB, Oracle Cloud Databases |
-| **Styling & UI** | Tailwind CSS, Shadcn/ui, Bootstrap |
-| **DevOps & Tooling** | Git, GitHub Actions, Vercel, Postman |
-
-### 📬 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/aahtasham-ashiq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ahtashammalik887@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
+ 
+## Tech Stack
+ 
+**Frontend**
+ 
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui)
+ 
+**Backend & Database**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+ 
+**DevOps & Tooling**
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+ 
 ---
-*"I don't just ship code; I deliver scalable solutions that solve real-world problems."*
-
-
-This code is not professional please professional also some logos are not being working so please fix all the problems and act as an senior Full Stack Engineer
+ 
+## GitHub Stats
+ 
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ahtasham-ashiq&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtasham-ashiq&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
+---
+ 
+## What I'm Working On
+ 
+- 🏗️ **Bridge Co-Working Space** — Multi-role MERN + Next.js platform (Super Admin, Investor, Branch, User dashboards)
+- 🤖 **LLM Feature Research** — Integrating AI-driven content synthesis into production apps
+- 📐 **Architecture Patterns** — Deepening expertise in Clean Architecture and Domain-Driven Design
+---
+ 
+## Background
+ 
+Former **Ambassador of Technovate Society** and Management Lead at GCUF. I bridge the gap between engineering rigor and product thinking — shipping maintainable systems, not just working code.
+ 
+---
+ 
+<div align="center">
+*Open to interesting problems. Let's build something that matters.*
