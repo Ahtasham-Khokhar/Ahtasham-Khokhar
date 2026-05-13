@@ -1,48 +1,71 @@
-<h1 align="center">Hi there 👋, I'm Ahtasham Malik</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | MERN Stack Enthusiast </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahtasham-khokhar&label=Profile%20Views&color=0e75b6&style=flat" alt="ahtasham-khokhar" />
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🔭 I’m currently working on a **Case-Clear**
-- 🌱 I’m deepening my skills in **React.js** and exploring **Next.js**
-- 💬 Ask me about: **Styling, JavaScript, React.js & Next.js, Node.js, Express.js, MongoDB & Supabase**
-- 📫 How to reach me: **ahtashammalik887@gmail.com**
-
----
-
-### 🤝 Connect with Me
+# Ahtasham Malik (Khokhar) 
+### **Senior Full-Stack Web Engineer | Next.js & Supabase Specialist**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aahtasham-ashiq/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
-  </a>
-  <a href="https://github.com/Ahtasham-Khokhar" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"/>
-  </a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🖋️ Professional Summary
 
+Performance-driven **Full-Stack Engineer** with a degree in **Information Technology from Government College University Faisalabad (2021-2025)**. I specialize in building scalable, secure, and AI-augmented web ecosystems. My engineering philosophy centers on **Clean Architecture (MVC)**, **Type Safety**, and **Atomic Design**.
+
+- 🔭 **Current Focus:** Engineering **Case-Clear**, a secure reporting platform utilizing RBAC and OTP-verified workflows.
+- 🤖 **AI Research:** Implementing LLM-driven features using the **Gemini API** for automated content synthesis.
+- 🏛️ **Legacy:** Former **Ambassador of Technovate Society** and Management Lead at GCUF.
+
+---
+
+### 🛠️ Technical Ecosystem
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Runtime & Frameworks** | Next.js 14+ (App Router), React, Node.js, Express.js |
+| **Backend-as-a-Service** | Supabase (Auth, Storage, Edge Functions), Firebase |
+| **Persistence Layer** | PostgreSQL, MongoDB, Oracle Cloud Databases |
+| **Styling & UI** | Tailwind CSS, Shadcn/ui, Framer Motion, Bootstrap |
+| **DevOps & Tooling** | Git, GitHub Actions, Vercel, Postman, OCI |
+
+---
+
+### 🚀 Key Engineering Projects
+
+#### [Case-Clear](https://github.com/Ahtasham-Khokhar)
+*Next.js • Supabase • Tailwind CSS*
+- Architected a role-based access control (RBAC) system for secure reporting.
+- Reduced fraudulent data entry by **30%** via SMTP/OTP integration.
+- Achieved **99% mobile responsiveness** across all administrative dashboards.
+
+#### [AI Resume Architect](https://github.com/Ahtasham-Khokhar)
+*React • Gemini API • Node.js*
+- Integrated Google’s **Gemini Pro** to automate ATS-optimized content generation.
+- Built a dynamic PDF rendering engine for real-time document synthesis.
+
+---
+
+### 📊 Engineering Metrics
+
+![Ahtasham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtasham-khokhar&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahtasham-khokhar&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6)
+
+---
+
+### 🤝 Leadership & Community Involvement
+- **Ambassador** | Technovate Society, GCUF (2025)
+- **Executive Member** | Student Federation GCUF (2021-2025)
+- **Management Lead** | Annual University Technical Events (2021-2022)
+
+---
+
+### 📬 Let's Connect
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/aahtasham-ashiq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahtashammalik887@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 📌 Fun Fact
-> “I turn ideas into reality through code — one component at a time.”
-
+---
+*"I don't just ship code; I deliver scalable solutions that solve real-world problems."*
