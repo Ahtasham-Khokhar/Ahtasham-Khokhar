@@ -8,7 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
  
 </div>
----
  
 I build full-stack web applications with a focus on **clean architecture**, **type safety**, and **scalable systems**. Currently engineering production-grade products with Next.js App Router, Supabase, and MongoDB — and exploring LLM-driven feature integration for real-world applications.
  
@@ -20,8 +19,6 @@ const ahtasham = {
   openTo:    ["Freelance", "Full-time", "Open Source Collaboration"],
 };
 ```
- 
----
  
 ## Tech Stack
  
@@ -49,28 +46,22 @@ const ahtasham = {
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
  
----
- 
 ## GitHub Stats
  
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahtasham-ashiq&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtasham-ashiq&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
----
  
 ## What I'm Working On
  
 - 🏗️ **Bridge Co-Working Space** — Multi-role MERN + Next.js platform (Super Admin, Investor, Branch, User dashboards)
 - 🤖 **LLM Feature Research** — Integrating AI-driven content synthesis into production apps
 - 📐 **Architecture Patterns** — Deepening expertise in Clean Architecture and Domain-Driven Design
----
  
 ## Background
  
 Former **Ambassador of Technovate Society** and Management Lead at GCUF. I bridge the gap between engineering rigor and product thinking — shipping maintainable systems, not just working code.
- 
----
- 
 <div align="center">
-*Open to interesting problems. Let's build something that matters.*
+ 
+Open to interesting problems. Let's build something that matters.
