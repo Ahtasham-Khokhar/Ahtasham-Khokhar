@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a **Case-Clear**
 - 🌱 I’m deepening my skills in **React.js** and exploring **Next.js**
-- 💬 Ask me about: **JavaScript, CSS, React.js, Node.js, Express.js, MongoDB**
+- 💬 Ask me about: **Styling, JavaScript, React.js & Next.js, Node.js, Express.js, MongoDB & Supabase**
 - 📫 How to reach me: **ahtashammalik887@gmail.com**
 
 ---
