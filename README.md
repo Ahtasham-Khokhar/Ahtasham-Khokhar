@@ -1,11 +1,10 @@
 <div align="center">
-Ahtasham Malik (Khokhar)
+Ahtasham Ashiq
  
 **Full-Stack Web Engineer · Next.js · Node.js · MongoDB · Supabase**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahtasham-ashiq/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahtashammalik887@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
  
 </div>
  
@@ -47,8 +46,6 @@ const ahtasham = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
  
 ## What I'm Working On
- 
-- 🏗️ **Bridge Co-Working Space** — Multi-role MERN + Next.js platform (Super Admin, Investor, Branch, User dashboards)
 - 🤖 **LLM Feature Research** — Integrating AI-driven content synthesis into production apps
 - 📐 **Architecture Patterns** — Deepening expertise in Clean Architecture and Domain-Driven Design
  
