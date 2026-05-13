@@ -1,7 +1,7 @@
 <div align="center">
-# Ahtasham Malik (Khokhar)
+Ahtasham Malik (Khokhar)
  
-**Full-Stack Engineer · Next.js · Node.js · MongoDB · Supabase**
+**Full-Stack Web Engineer · Next.js · Node.js · MongoDB · Supabase**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahtasham-ashiq/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahtashammalik887@gmail.com)
@@ -45,13 +45,6 @@ const ahtasham = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
- 
-## GitHub Stats
- 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ahtasham-ashiq&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtasham-ashiq&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
  
 ## What I'm Working On
  
