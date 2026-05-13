@@ -43,20 +43,6 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40"/></a>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahtasham-khokhar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahtasham-khokhar&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📌 Fun Fact
 > “I turn ideas into reality through code — one component at a time.”
 
